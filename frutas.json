@@ -1,0 +1,26 @@
+{
+    "frutas":[
+        {
+            "nombre": "Manzana",
+            "peso": "20gr",
+            "cantidad": 5
+
+        },
+        {
+            "nombre": "Naranja",
+            "peso": "15gr",
+            "cantidad":8
+        },
+        {
+            "nombre": "Banana",
+            "peso":"30gr",
+            "cantidad":20
+        },
+        {
+            "nombre": "Pera",
+            "peso":"10gr",
+            "cantidad":10
+        }
+
+    ]
+}
